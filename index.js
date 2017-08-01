@@ -27,3 +27,5 @@ function mergeSort(array){
   }
   return sorted
 }
+
+// mmmkay??
